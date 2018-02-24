@@ -83,6 +83,17 @@ a:active{
 	margin-bottom: 2em;
 	padding: 10px;
 }
+.item-name {
+	max-width: auto;
+	padding: 15px 0;
+	font-size:15px;
+	position: relative;
+	top: -100px;
+	text-align: center;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	z-index: 1000;
+}
 /* ---- Let's Get Social Section -- */
 
 .social:hover{
